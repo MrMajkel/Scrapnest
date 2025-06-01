@@ -23,7 +23,7 @@ Celem ScrapNest jest ułatwienie codziennego zarządzania dokumentami oraz stane
 
 
 ## Panel logowania:
-Strona startowa aplikacji zawiera panel logowania podzielony na dwie sekcje. Po lewej stronie znajduje się grafika z logo aplikacji, natomiast po prawej stronie umieszczono formularz logowania. Aplikacja jest w pełni responsywna – widok mobilny automatycznie dostosowuje się do rozmiaru ekranu, aktywując „burger menu” umożliwiające ich rozwinięcie. Panel rejestracji umożliwia użytkownikowi uzupełnienie danych takich jak: imię, nazwisko, adres e-mail, hasło oraz wybór roli.
+Strona startowa aplikacji zawiera panel logowania podzielony na dwie sekcje. Po lewej stronie znajduje się grafika z logo aplikacji, natomiast po prawej stronie umieszczono formularz logowania. Aplikacja jest w pełni responsywna – widok mobilny automatycznie dostosowuje się do rozmiaru ekranu, aktywując „burger menu”. Panel rejestracji umożliwia użytkownikowi uzupełnienie danych takich jak: imię, nazwisko, adres e-mail, hasło oraz wybór roli.
 
 ![image](https://github.com/user-attachments/assets/ceb8b865-a097-4c93-9c7a-2b56e68d1b58)
 
