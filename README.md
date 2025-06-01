@@ -22,6 +22,7 @@ Celem ScrapNest jest ułatwienie codziennego zarządzania dokumentami oraz stane
 Strona startowa aplikacji zawiera panel logowania podzielony na dwie sekcje. Po lewej stronie znajduje się grafika z logo aplikacji, natomiast po prawej stronie umieszczono formularz logowania. Aplikacja jest w pełni responsywna – widok mobilny automatycznie dostosowuje się do rozmiaru ekranu, aktywując „burger menu” umożliwiające ich rozwinięcie. Panel rejestracji umożliwia użytkownikowi uzupełnienie danych takich jak: imię, nazwisko, adres e-mail, hasło oraz wybór roli.
 
 **Panel logowania:**
+
 Górne statystyki:
 Łączna liczba metali – pokazuje, że w systemie znajduje się różne rodzaje metali.
 Całkowita masa – aktualna całkowita masa wszystkich metali w magazynie.
