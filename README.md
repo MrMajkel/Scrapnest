@@ -18,3 +18,7 @@
 **Cel projektu:**
 
 Celem ScrapNest jest ułatwienie codziennego zarządzania dokumentami oraz stanem magazynowym w firmach, które potrzebują szybkiego i prostego narzędzia do kontroli przepływu towarów i danych.
+
+
+Panel logowania:
+![image](https://github.com/user-attachments/assets/ceb8b865-a097-4c93-9c7a-2b56e68d1b58)
