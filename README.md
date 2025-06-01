@@ -1,6 +1,6 @@
 ## ScrapNest 
 
-Aplikacja internetowa zaprojektowana z myślą o firmach zajmujących się obrotem surowcami oraz materiałami. Umożliwia zarządzanie dokumentacją sprzedażową, zakupową i magazynową w jednym, wygodnym systemie online.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikacja internetowa zaprojektowana z myślą o firmach zajmujących się obrotem surowcami oraz materiałami. Umożliwia zarządzanie dokumentacją sprzedażową, zakupową i magazynową w jednym, wygodnym systemie online.
 
 **Technologie użyte w projekcie:**
 - HTML / CSS – struktura i stylowanie interfejsu użytkownika
@@ -19,11 +19,11 @@ Aplikacja internetowa zaprojektowana z myślą o firmach zajmujących się obrot
 
 **Cel projektu:**
 
-Celem ScrapNest jest ułatwienie codziennego zarządzania dokumentami oraz stanem magazynowym w firmach, które potrzebują szybkiego i prostego narzędzia do kontroli przepływu towarów i danych.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Celem ScrapNest jest ułatwienie codziennego zarządzania dokumentami oraz stanem magazynowym w firmach, które potrzebują szybkiego i prostego narzędzia do kontroli przepływu towarów i danych.
 
 
 ## Panel logowania:
-Strona startowa aplikacji zawiera panel logowania podzielony na dwie sekcje. Po lewej stronie znajduje się grafika z logo aplikacji, natomiast po prawej stronie umieszczono formularz logowania. Aplikacja jest w pełni responsywna – widok mobilny automatycznie dostosowuje się do rozmiaru ekranu, aktywując „burger menu”. Panel rejestracji umożliwia użytkownikowi uzupełnienie danych takich jak: imię, nazwisko, adres e-mail, hasło oraz wybór roli.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strona startowa aplikacji zawiera panel logowania podzielony na dwie sekcje. Po lewej stronie znajduje się grafika z logo aplikacji, natomiast po prawej stronie umieszczono formularz logowania. Aplikacja jest w pełni responsywna – widok mobilny automatycznie dostosowuje się do rozmiaru ekranu, aktywując „burger menu”.
 
 ![image](https://github.com/user-attachments/assets/ceb8b865-a097-4c93-9c7a-2b56e68d1b58)
 
@@ -32,6 +32,7 @@ Strona startowa aplikacji zawiera panel logowania podzielony na dwie sekcje. Po 
 ![image](https://github.com/user-attachments/assets/e50620fd-04c7-4b94-8089-4b8f9c1dcf7e)
 
 ## Panel rejestracji:
+Panel rejestracji umożliwia użytkownikowi uzupełnienie danych takich jak: imię, nazwisko, adres e-mail, hasło oraz wybór roli.
 
 ![image](https://github.com/user-attachments/assets/3e2864ba-d4b3-4fa7-b5bc-01bbd93e7257)
 
@@ -54,7 +55,8 @@ Strona startowa aplikacji zawiera panel logowania podzielony na dwie sekcje. Po 
 ![image](https://github.com/user-attachments/assets/aae1ee11-b32c-4599-af8f-aabebb5e73a7)
 
 ## Formularze
-Funkcjonalność:
+
+**Funkcjonalność:**
 - Dodawanie formulaza („+Dodaj formularz”) - dodawanie formularza z ilością danych
 - Edycja („Edytuj”) – możliwość modyfikacji danych w formularzu (np. korekta masy, metalu, daty)
 - Usuwanie („Usuń”) – trwałe usunięcie formularza z systemu
@@ -66,7 +68,8 @@ Funkcjonalność:
 ![image](https://github.com/user-attachments/assets/76a3add7-e448-4b21-8593-30882192ff1d)
 
 ## Faktury zakup
-Funkcjonalność:
+
+**Funkcjonalność:**
 - Dodawanie faktury („+Dodaj fakturę”) - dodawanie faktury z ilością danych
 - Edycja („Edytuj”) – możliwość modyfikacji danych w formularzu (np. korekta masy, metalu, daty)
 - Usuwanie („Usuń”) – trwałe usunięcie formularza z systemu
@@ -78,7 +81,8 @@ Funkcjonalność:
 ![image](https://github.com/user-attachments/assets/a3d88792-4020-42c7-9c86-0f0fcb94b521)
 
 ## Faktury sprzedaż
-Funkcjonalność:
+
+**Funkcjonalność:**
 - Dodawanie faktury („+Dodaj fakturę”) - dodawanie faktury z ilością danych
 - Edycja („Edytuj”) – możliwość modyfikacji danych w formularzu (np. korekta masy, metalu, daty)
 - Usuwanie („Usuń”) – trwałe usunięcie formularza z systemu
@@ -90,7 +94,8 @@ Funkcjonalność:
 ![image](https://github.com/user-attachments/assets/32fb278d-58f5-4b09-9451-9c807513dec8)
 
 ## Kontrahenci
-Funkcjonalność:
+
+**Funkcjonalność:**
 - Dodawanie faktury („+Dodaj kontrahenta”) - dodawanie kontrahenta
 - Edycja („Edytuj”) – możliwość modyfikacji danych kontrahenta (nazwa firmy, BDO, NIP, Adres, Telefon, e-mail)
 - Usuwanie („Usuń”) – trwałe usunięcie kontrahenta z systemu
@@ -103,7 +108,7 @@ Funkcjonalność:
 
 ## Raporty
 
-Dostępne akcje:
+**Dostępne akcje:**
 - Przycisk „Drukuj” – umożliwia bezpośrednie wydrukowanie raportu.
 - Przycisk „Excel (CSV)” – umożliwia eksport danych do pliku CSV (czyli w formacie zgodnym z Excel), co pozwala na dalszą analizę, archiwizację lub przesyłanie danych.
 
@@ -114,7 +119,8 @@ Dostępne akcje:
 ![image](https://github.com/user-attachments/assets/3e9b77b6-568d-4033-bdf9-15cf6546b4d4)
 
 ## Użytkownicy (dostępni tylko z poziomu administratora)
-Funkcjonalność:
+
+**Funkcjonalność:**
 - Dodawanie użytkownika („+Dodaj użytkownika”) - dodawanie uzytkownika
 - Edycja („Edytuj”) – możliwość modyfikacji danych w użytkownika (imię, nazwisko, e-mail, hasło, rola)
 - Usuwanie („Usuń”) – trwałe usunięcie użytkownika z systemu
