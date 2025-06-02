@@ -9,18 +9,18 @@ $powtorzhaslo = $_POST['powtorzhaslo'] ?? '';
 $rola = $_POST['rola'] ?? '';
 
 if (!$imie || !$nazwisko || !$email || !$haslo || !$powtorzhaslo || !$rola) {
-    header("Location: ../rejestracja.php?error=puste");
+    header("Location: ../rejestracja?error=puste");
     exit;
 }
 
 if ($haslo !== $powtorzhaslo) {
-    header("Location: ../rejestracja.php?error=hasla");
+    header("Location: ../rejestracja?error=hasla");
     exit;
 }
 
 $sprawdz = pg_query_params($conn, "SELECT 1 FROM users WHERE email = $1", [$email]);
 if (pg_num_rows($sprawdz) > 0) {
-    header("Location: ../rejestracja.php?error=email");
+    header("Location: ../rejestracja?error=email");
     exit;
 }
 
@@ -30,6 +30,6 @@ pg_query_params($conn,
     [$imie, $nazwisko, $email, $hashed, $rola]
 );
 
-header("Location: ../logowanie.php?zarejestrowano=1");
+header("Location: ../logowanie?zarejestrowano=1");
 exit;
 ?>

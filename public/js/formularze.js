@@ -135,7 +135,6 @@ function renderPagination(hasNextPage) {
   `;
 }
 
-// ✨ Formularz dynamiczny z css2 – dodany do css1
 function formularzForm(data = {}) {
   const wrapper = document.createElement('div');
   wrapper.classList.add('modal');
